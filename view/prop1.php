@@ -1,9 +1,9 @@
-  <select hidden id="prop"><option value="1"></select>
   <?php include './assets/variables.php';
         $prop = 1;
   ?> 
   <?php include './partials/_head.php' ?>
   <?php include './partials/_interface.php' ?>
+  <select hidden id="prop"><option value="1"></select>
 
   <div id="info">        
   <h1>Euclid's Elements<br><small> Book One: Proposition 1</small></h1>
